@@ -1,5 +1,5 @@
   <h2>
-    <span>Hi, I'm mujammilsaifi</span>
+    <span>Hi, I'm Mujammil</span>
     <span><img src="https://media4.giphy.com/media/8N2wP9LffgeLz3vwcc/giphy.gif?cid=790b7611a9b35b2f6245c30cf9fbb74eaf27d1142bddaa45&rid=giphy.gif&ct=s" width="32" /></span>
   </h2>
     <p style="font-size:12px">As I sip coffee, the keyboard starts smoking and the monitor starts flickering - I think I fried my code <i>and</i> my career.</p>
